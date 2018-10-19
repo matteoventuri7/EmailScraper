@@ -1,0 +1,14 @@
+
+\.vs/EmailScraper/DesignTimeBuild/\.dtbcache
+
+\.vs/EmailScraper/v15/\.suo
+
+\.vs/EmailScraper/v15/Server/sqlite3/db\.lock
+
+\.vs/EmailScraper/v15/Server/sqlite3/storage\.ide
+
+\.vs/EmailScraper/v15/Server/sqlite3/storage\.ide-shm
+
+\.vs/EmailScraper/v15/Server/sqlite3/storage\.ide-wal
+
+EmailScraper/obj/Release/netcoreapp2\.1/
