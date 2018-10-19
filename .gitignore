@@ -12,3 +12,9 @@
 \.vs/EmailScraper/v15/Server/sqlite3/storage\.ide-wal
 
 EmailScraper/obj/Release/netcoreapp2\.1/
+
+EmailScraper/bin/Debug/netcoreapp2\.1/
+
+EmailScraper/obj/
+
+EmailScraper/bin/Release/netcoreapp2\.1/
